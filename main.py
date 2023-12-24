@@ -12,6 +12,7 @@ x = PrettyTable()
 
 
 
+
 #Hayvanların özelliklerini barındıran base class
 class Hayvanlar:
     def __init__(self,isim,yasi,cinsi,saglik,yeme,uyuma,hareketEtme,yetenek,olay):
