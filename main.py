@@ -8,7 +8,10 @@ import cv2
 from prettytable import PrettyTable
 import time
 
+print("OmerFameşe")
 x = PrettyTable()
+
+
 
 #Hayvanların özelliklerini barındıran base class
 class Hayvanlar:
